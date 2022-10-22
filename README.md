@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikez08
 - 👀 I’m interested in gaming and basketball
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Cell 514-632-7678
 
